@@ -1,0 +1,10 @@
+Matplotlib -
+   matplotlib is a low level graph plotting library in python that serves as a visualization utility..
+
+   - written in python
+   - for platform compatibility
+
+where is the matplotlib codebase ..?
+  the source code for matplotlib is located at this github-repository
+
+  https://github.com/matplotlib/matplotlib
